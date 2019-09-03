@@ -1,0 +1,14 @@
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\bin\Debug\netcoreapp2.2\Car_Dealership_API.deps.json
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\bin\Debug\netcoreapp2.2\Car_Dealership_API.runtimeconfig.json
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\bin\Debug\netcoreapp2.2\Car_Dealership_API.runtimeconfig.dev.json
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\bin\Debug\netcoreapp2.2\Car_Dealership_API.dll
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\obj\Debug\netcoreapp2.2\Car_Dealership_API.csprojAssemblyReference.cache
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\obj\Debug\netcoreapp2.2\Car_Dealership_API.csproj.CoreCompileInputs.cache
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\obj\Debug\netcoreapp2.2\Car_Dealership_API.RazorAssemblyInfo.cache
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\obj\Debug\netcoreapp2.2\Car_Dealership_API.RazorAssemblyInfo.cs
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\obj\Debug\netcoreapp2.2\Car_Dealership_API.AssemblyInfoInputs.cache
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\obj\Debug\netcoreapp2.2\Car_Dealership_API.AssemblyInfo.cs
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\obj\Debug\netcoreapp2.2\Car_Dealership_API.RazorTargetAssemblyInfo.cache
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\bin\Debug\netcoreapp2.2\Car_Dealership_API.pdb
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\obj\Debug\netcoreapp2.2\Car_Dealership_API.dll
+C:\Users\sibgy\source\repos\Car_Dealership_API\Car_Dealership_API\obj\Debug\netcoreapp2.2\Car_Dealership_API.pdb

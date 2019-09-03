@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Result";
+}
+
+<h1>Result</h1>
+
+@model Car_Dealership.Models.Car
+
+
+
+<table class="table">
+    <tr>
+        <td>Make</td>
+        <td>Model</td>
+        <td>Year</td>
+        <td>Color</td>
+    </tr>
+    <tr>
+        <td>@Model.Make</td>
+        <td>@Model.Model</td>
+        <td>@Model.Year</td>
+        <td>@Model.Color</td>
+    </tr>
+</table>
